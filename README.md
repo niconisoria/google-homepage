@@ -1,5 +1,5 @@
 #Google like layout
 
 **Made with:**
-  *CSS Grid
-  *Flexbox
+  * CSS Grid
+  * Flexbox
