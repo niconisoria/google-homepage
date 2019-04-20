@@ -104,6 +104,11 @@ a.button:hover{
     color: white;
 }
 
+a.button:visited{
+    text-decoration: none;
+    color: white;
+}
+
 /* MAIN CONTENT */
 
 /* Logo */
