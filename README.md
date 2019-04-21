@@ -1,4 +1,4 @@
-# Google like layout
+# Google like Layout
 
 **Made with:**
   * CSS Grid
