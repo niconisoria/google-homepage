@@ -37,7 +37,7 @@ header {
 .main {
     grid-area: main;
     display: grid;
-    grid-template: 100px 1fr 1fr 230px/ 100%;
+    grid-template: 13vh 13vh 13vh 30vh / 100%;
     justify-content: center;
     justify-items: center;
     
